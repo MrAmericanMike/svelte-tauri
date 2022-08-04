@@ -1,0 +1,7 @@
+{
+	"svelteSortOrder": "scripts-markup-styles",
+	"tabWidth": 4,
+	"useTabs": true,
+	"printWidth": 160,
+	"trailingComma": "none"
+}
